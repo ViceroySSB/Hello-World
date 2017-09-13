@@ -20,6 +20,7 @@ public class HelloWorld {
         Scanner personName = new Scanner(System.in);
         String name = personName.next();
         System.out.println("Hello " + name + "!");
+        System.out.println("HI WORLD!");
     }
     
 }
